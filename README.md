@@ -3,12 +3,6 @@
   <a href="github.com/ahnafalfariza/moviesdaily" style="color: black"><span>MoviesDaily</span></a><br>
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/react-16.13-green.svg" />
-  <img src="https://img.shields.io/badge/react--native-0.63-blue.svg" />
-  <img src="https://img.shields.io/badge/license-MIT-red" />
-</p>
-
 ## Overview
 
 Movies and TV Show mobile application. Available for iOS and Android.
@@ -60,7 +54,3 @@ $ npm run android
 ```
 $ npm run ios
 ```
-
-## License
-
-Project is published under the [MIT license](/LICENSE).
